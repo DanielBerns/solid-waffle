@@ -1,2 +1,2 @@
 # solid-waffle
-Practica 7 de muestreo de señales
+Práctica 7 de muestreo de señales
